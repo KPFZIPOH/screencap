@@ -13,7 +13,7 @@ Security: The ZIP file is encrypted, but ensure the password and output files ar
 ## Description
 A Python script that captures a screenshot of the entire screen and saves it as a PNG file with a timestamped filename in a specified directory. The script includes error handling, directory creation, and user feedback for robust operation.
 
-Note: This project is intended for educational purposes only. Unauthorized use of keyloggers to capture keystrokes without consent is illegal and unethical. Ensure you have explicit permission from all parties involved before using this software.
+Note: This project is intended for educational purposes only. Unauthorized use of screencap to capture remote screen without consent is illegal and unethical. Ensure you have explicit permission from all parties involved before using this software.
 
 ## Author
 KPFZIPOH
